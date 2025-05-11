@@ -37,7 +37,7 @@ There is a fore-and-aft tension system.
 ## Syncing the Motors
 Syncing the motors is essential. If you do not the Input Shaping is unpredictable, and your steps will wear out faster as they play tug-of-war. You can either sync manually or automatically. Both ways work, however, the automatic way is slightly better.
 - The manual approach is best described in the [LH Stinger documentation](https://github.com/lhndo/LH-Stinger/wiki/Tuning#awd-y-stepper-motor-sync).
-- The automatic approach requires a dedicated adxl to be installed in the center of the base plate. I have used this [klipper plugin](https://github.com/MRX8024/motors-sync/tree/main) to accomplish the task of syncing.
+- The automatic approach requires a dedicated adxl to be installed in the center of the base plate. I have used this [klipper plugin](https://github.com/MRX8024/motors-sync/tree/main) to accomplish the task of syncing. This guidance has been proven by the Voron core XY community.
 
 ## When to Sync the Motors
 - You always need to sync the motors when you adjust the tension on the belt. Period. 
