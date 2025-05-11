@@ -40,6 +40,6 @@ Syncing the motors is essential. If you do not the Input Shaping is unpredictabl
 - The automatic approach requires a dedicated adxl to be installed in the center of the base plate. I have used this [klipper plugin](https://github.com/MRX8024/motors-sync/tree/main) to accomplish the task of syncing.
 
 ## When to Sync the Motors
-You always need to sync the motors when you adjust the tension on the belt. Period. 
-With the automatic sync, you should also sync as part of your PRINT_START, because its lazier to add it than to wonder if you should have added it.
+- You always need to sync the motors when you adjust the tension on the belt. Period. 
+- With the automatic sync, you should also sync as part of your PRINT_START, because its lazier to add it than to wonder if you should have added it.
 
