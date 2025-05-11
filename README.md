@@ -2,14 +2,14 @@
 Status: Experimental - Documentation is in progress
 
 ## Proposal
-The Y axis is underpowered. In comparison to the X axis, it is almost twice as slow in acceleration. This is due to having almost three times the load. This concept is not new and has been showcased successfully with other bed slingers, most notably the LH Stinger.
+The Y axis is underpowered. In comparison to the X axis, it is almost twice as slow in acceleration. This is due to having almost three times the load. The concept of using multiple motors is not new and has been showcased successfully with other bed slingers, most notably the LH Stinger.
 
 I propose to add an additional motor to the Y axis by using Layer.shifted [Neptune 4/4pro Y-Axis Double Shear 9mm Belt Upgrade](https://www.printables.com/model/1208536-neptune-44pro-y-axis-double-shear-9mm-belt-upgrade) and mounted it in place of the Y axis tensioner.
 
-This modification also requires a new tensioner design, and a way to automaticly sync the two motors.
+This modification also requires a new tensioner design, and a way to automatically sync the two motors.
 
 ## Prerequists
-The first order of business is to print, source, and build out The Y-Axis Double Shear. Once this is stable,e proceed to the next step. Remember to keep as much length of the belt as possible it will be needed when the additional motor is added.
+The first order of business is to print, source, and build out The Y-Axis Double Shear. Once this is stable, the proceed to the next step. Remember to keep as much length of the belt as possible it will be needed when the additional motor is added.
 
 ## Tensioner
 Building the tensioner should be the second priority. My first interations were printed from PETG, but after a few months I found that it deformed badly under the presure of the base plate mounting screws and the belt retainers did. After redesigning the tensioner system to be more compact and include a spot for an adxl345, I printed this in ASA-CF. So far, it is holding just fine.
