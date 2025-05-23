@@ -55,4 +55,8 @@ AWD manual sync
 AWD adxl sync + rigid spacers
 ![image](https://github.com/user-attachments/assets/2d773b66-4a9c-44ac-9af6-8e8d28dd4aef)
 
-
+## Talk throughs
+https://www.youtube.com/shorts/GpRsdIZC7Hs
+https://youtube.com/shorts/7Iwm1x9LCUw
+https://youtube.com/shorts/XBzKG74UmCE
+https://youtube.com/shorts/STW_UA8tv80
