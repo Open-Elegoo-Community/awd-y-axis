@@ -2,9 +2,9 @@
 Status: Experimental - Documentation is in progress
 
 ## Proposal
-The Y axis is underpowered. In comparison to the X axis, it is almost twice as slow in acceleration. This is due to having almost three times the load. The concept of using multiple motors is not new and has been showcased successfully with other bed slingers, most notably the LH Stinger.
+The Y axis is underpowered. In comparison to the X axis, it is almost twice as slow in acceleration. This is due to having almost three times the load. Using multiple motors is not new and has been showcased successfully with other bed slingers, most notably the LH Stinger.
 
-I propose to add an additional motor to the Y axis by using Layer.shifted [Neptune 4/4pro Y-Axis Double Shear 9mm Belt Upgrade](https://www.printables.com/model/1208536-neptune-44pro-y-axis-double-shear-9mm-belt-upgrade) and mounted it in place of the Y axis tensioner.
+I propose to add an additional motor to the Y-axis by using Layer.shifted [Neptune 4/4pro Y-Axis Double Shear 9mm Belt Upgrade](https://www.printables.com/model/1208536-neptune-44pro-y-axis-double-shear-9mm-belt-upgrade) and mounting it in place of the Y-axis tensioner.
 
 This modification also requires a new tensioner design, and a way to automatically sync the two motors.
 
@@ -42,4 +42,17 @@ Syncing the motors is essential. If you do not the Input Shaping is unpredictabl
 ## When to Sync the Motors
 - You always need to sync the motors when you adjust the tension on the belt. Period. 
 - With the automatic sync, you should also sync as part of your PRINT_START, because its lazier to add it than to wonder if you should have added it.
+
+## Tests
+If I recall the dates correctly, I have the following
+
+Single Y double shear
+![image](https://github.com/user-attachments/assets/1b0bd6df-1da1-4ad1-b168-aa5ab56d5f23)
+
+AWD manual sync
+![image](https://github.com/user-attachments/assets/2bd41426-43d9-4049-b6bc-10cdda9f42f9)
+
+AWD adxl sync + rigid spacers
+![image](https://github.com/user-attachments/assets/2d773b66-4a9c-44ac-9af6-8e8d28dd4aef)
+
 
