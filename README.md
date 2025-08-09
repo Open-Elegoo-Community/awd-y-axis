@@ -74,4 +74,4 @@ AWD adxl sync + rigid spacers
 - [Part 2](https://youtube.com/shorts/7Iwm1x9LCUw)
 - [Part 3](https://youtube.com/shorts/XBzKG74UmCE)
 - [Part 4](https://youtube.com/shorts/STW_UA8tv80)
-- Part 5 - TBD
+- [Part 5](https://youtu.be/CL45KMCeoP4)
