@@ -18,7 +18,7 @@ The first order of business is to print, source, and build out The Y-Axis Double
 | 4 | M3 x 40 hex sockethead cap screws |
 | 1 | Mellow FLY adxl345 |
 | 1 | USB cable (maybe 1 meter) |
-| 2 | M3 small heat inserts |
+| 2 | M3 x D5.0 x L4.0 heat inserts |
 | 2 | M3 x 5 button or cap screws |
 | 4 | M4 x 15 (I think) button head screws |
 
